@@ -6,10 +6,14 @@ body {
   margin: auto;
    font-family: "Poetsen One", serif;
 }
-
-h1{
-  font-size: 30px;
+h1 {
+  background-color: #75077d ;
+  border-radius: 20px;
   color: white;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 5px;
+}
 }
 
 #myCanvas {
